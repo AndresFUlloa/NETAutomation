@@ -1,0 +1,5 @@
+/Users/andresulloa/Projects/NETAutomation/NETAutomation/obj/Debug/net7.0/NETAutomation.csproj.AssemblyReference.cache
+/Users/andresulloa/Projects/NETAutomation/NETAutomation/obj/Debug/net7.0/NETAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresulloa/Projects/NETAutomation/NETAutomation/obj/Debug/net7.0/NETAutomation.AssemblyInfoInputs.cache
+/Users/andresulloa/Projects/NETAutomation/NETAutomation/obj/Debug/net7.0/NETAutomation.AssemblyInfo.cs
+/Users/andresulloa/Projects/NETAutomation/NETAutomation/obj/Debug/net7.0/NETAutomation.csproj.CoreCompileInputs.cache

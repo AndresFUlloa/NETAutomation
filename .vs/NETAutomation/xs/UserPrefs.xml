@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NETAutomation/Class1.cs">
+    <Files>
+      <File FileName="NETAutomation/Class1.cs" Line="8" Column="1" />
+      <File FileName="NETAutomation/utils/DriverUtils.cs" Line="41" Column="54" />
+      <File FileName="NETAutomation/pages/NavigationPage.cs" Line="29" Column="10" />
+      <File FileName="NETAutomation/ui/NavigationUI.cs" Line="17" Column="103" />
+      <File FileName="NETAutomation/pages/LoginPage.cs" Line="1" Column="7" />
+      <File FileName="NETAutomation/ui/LoginUI.cs" Line="1" Column="7" />
+      <File FileName="NETAutomation/steps/LoginSteps.cs" Line="58" Column="1" />
+      <File FileName="NETAutomation/runner/TestRunner.cs" Line="1" Column="24" />
+      <File FileName="NETAutomation/features/login.feature.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NETAutomation" expanded="True">
+            <Node name="NETAutomation" expanded="True">
+              <Node name="features" expanded="True" />
+              <Node name="runner" expanded="True" />
+              <Node name="steps" expanded="True">
+                <Node name="LoginSteps.cs" selected="True" />
+              </Node>
+              <Node name="utils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
