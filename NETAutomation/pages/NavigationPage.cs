@@ -1,15 +1,20 @@
 ﻿using OpenQA.Selenium;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace NETAutomation.pages
+namespace NETAutomation.Pages
 {
     public class NavigationPage
-	{
+    {
 
-		private Dictionary<string, By> _navigationLocators = new Dictionary<string, By>();
+        private Dictionary<string, By> _navigationLocators = new Dictionary<string, By>();
         public By LogoutLocator { get; } = By.CssSelector("a[href='/logout']");
 
-		public NavigationPage()
-		{
+        public NavigationPage()
+        {
             _navigationLocators.Add("Home", By.CssSelector("a[href='/']"));
             _navigationLocators.Add("Products", By.CssSelector("a[href='/products']"));
             _navigationLocators.Add("Cart", By.CssSelector("a[href='/view_cart']"));
@@ -28,6 +33,5 @@ namespace NETAutomation.pages
             throw new ArgumentException($"Navigation page '{pageName}' not found");
         }
 
-	}
+    }
 }
-

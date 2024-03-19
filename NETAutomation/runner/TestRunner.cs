@@ -8,9 +8,9 @@ using TechTalk.SpecFlow.Infrastructure;
 
 namespace NETAutomation.runner
 {
-    [assembly: FeatureFileGlob("Features\\*.feature")]
-    [assembly: GherkinDialect("Gherkin")]
-    [assembly: BindingBehavior(BindingType.Include)]
+    [TestFixture]
+    [Parallelizable(ParallelScope.Fixtures)]
+    [Binding]
     public class TestRunner
 	{
         [Test, Order(1)]
